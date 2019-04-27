@@ -23,7 +23,17 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
-[liamgilbey/ggwaffle](https://github.com/liamgilbey/ggwaffle) | <a href="" target="_blank"><img src="https://github.com/liamgilbey/ggwaffle/raw/master/man/figures/README-example1.png" alt="drawing" width="200"/></a> | <img src="https://github.com/liamgilbey/ggwaffle/blob/master/man/figures/sticker.png?raw=true" alt="drawing" width="100"/></a>| 
+[liamgilbey/ggwaffle](https://github.com/liamgilbey/ggwaffle) <br> [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont)| <img src="https://github.com/liamgilbey/ggwaffle/raw/master/man/figures/README-example1.png" alt="drawing" width="200"/></a> | <img src="https://github.com/liamgilbey/ggwaffle/blob/master/man/figures/sticker.png?raw=true" alt="drawing" width="100"/></a>| 
+
+
+# Network Visualization
+
+# Trees
+
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree) | <a href="" target="_blank"><img src="https://pbs.twimg.com/media/DAB81btXUAEbDK9.jpg:large" alt="drawing" width="200"/></a> | <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ggtree/ggtree.png" alt="drawing" width="100"/></a>| 
 
 
 
