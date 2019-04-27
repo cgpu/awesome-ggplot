@@ -23,7 +23,7 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
-[liamgilbey/ggwaffle](https://github.com/liamgilbey/ggwaffle) <br> [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont)| <img src="https://github.com/liamgilbey/ggwaffle/raw/master/man/figures/README-example1.png" alt="drawing" width="200"/></a> | <img src="https://github.com/liamgilbey/ggwaffle/blob/master/man/figures/sticker.png?raw=true" alt="drawing" width="100"/></a>| 
+[liamgilbey/ggwaffle](https://github.com/liamgilbey/ggwaffle) | <img src="https://github.com/liamgilbey/ggwaffle/raw/master/man/figures/README-example1.png" alt="drawing" width="200"/></a> | <img src="https://github.com/liamgilbey/ggwaffle/blob/master/man/figures/sticker.png?raw=true" alt="drawing" width="100"/></a>| 
 
 
 # Network Visualization
