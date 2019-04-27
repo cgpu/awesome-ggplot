@@ -33,7 +33,7 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
-[GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree) | <a href="" target="_blank"><img src="https://pbs.twimg.com/media/DAB81btXUAEbDK9.jpg:large" alt="drawing" width="200"/></a> | <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ggtree/ggtree.png" alt="drawing" width="100"/></a>| 
+[GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree)<br>[GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) | <a href="" target="_blank"><img src="https://pbs.twimg.com/media/DAB81btXUAEbDK9.jpg:large" alt="drawing" width="200"/></a> | <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ggtree/ggtree.png" alt="drawing" width="100"/></a>| 
 
 
 
