@@ -64,6 +64,10 @@ tengfei/ggbio
 [GuangchuangYu/seqcombo](https://github.com/GuangchuangYu/seqcombo) | <a href="https://guangchuangyu.github.io/2017/12/visualizing-reassortment-history-using-seqcombo/" target="_blank"><img src="https://raw.githubusercontent.com/GuangchuangYu/seqcombo/master/inst/figures/GVariation.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 [brennanpincardiff/drawProteins](https://github.com/brennanpincardiff/drawProteins) | <a href="https://rforbiochemists.blogspot.com/2017/08/drawing-nfkappab-protein-schematics.html" target="_blank"><img src="https://2.bp.blogspot.com/-2JBcqPTE5aQ/WZMNEe2gkvI/AAAAAAAACAI/u5NbgN9FeAEzyVaTdJ2lJbOPdVYoEDZ0gCLcBGAs/s640/Rplot05_png.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 [UBod/msa](https://github.com/UBod/msa) | <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://bioconductor.org/packages/devel/bioc/vignettes/msa/inst/doc/msa.pdf" target="_blank"><img src="https://github.com/cgpu/awesome-ggplot/blob/master/images/drawProteins.png?raw=true" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+[michalstolarczyk/BALCONY](https://github.com/michalstolarczyk/BALCONY) | <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2294-z" target="_blank"><img src="https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fs12859-018-2294-z/MediaObjects/12859_2018_2294_Fig3_HTML.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
+
+
+R package: BALCONY (Better ALignment CONsensus analYsis)
 
