@@ -41,6 +41,12 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
-[hafen/geofacet](https://github.com/hafen/geofacet) | <a href="https://hafen.github.io/geofacet//" target="_blank"><img src="https://user-images.githubusercontent.com/1275592/27321712-1fe9c818-5550-11e7-80e2-ce2afeb53734.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+[hafen/geofacet](https://github.com/hafen/geofacet) | <a href="https://hafen.github.io/geofacet/" target="_blank"><img src="https://user-images.githubusercontent.com/1275592/27321712-1fe9c818-5550-11e7-80e2-ce2afeb53734.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
+# Emojiverse
+
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) | <a href="https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html" target="_blank"><img src="https://i1.wp.com/raw.githubusercontent.com/GuangchuangYu/emojifont/master/vignettes/figures/fontawesome.png?w=456&ssl=1" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
