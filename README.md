@@ -35,6 +35,7 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 |:-------------------:|:------------------:| :------------------: |
 [GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree)<br>[GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) | <a href="" target="_blank"><img src="https://pbs.twimg.com/media/DAB81btXUAEbDK9.jpg:large" alt="drawing" width="200"/></a> | <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ggtree/ggtree.png" alt="drawing" width="100"/></a>| 
 [GuangchuangYu/ggimage](https://github.com/GuangchuangYu/ggimage)| <a href="https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/" target="_blank"><img src="https://guangchuangyu.github.io/post/R/ggimage/ggbackground_files/figure-html/unnamed-chunk-4-1.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+[GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree) <br> [joey711/phyloseq](https://github.com/joey711/phyloseq) |  <a href="https://yulab-smu.github.io/treedata-book/chapter5.html" target="_blank"><img src="https://yulab-smu.github.io/treedata-book/treedata_files/figure-html/outbreaktools-1.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
 # Multiplotting
