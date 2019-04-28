@@ -69,5 +69,4 @@ tengfei/ggbio
 
 
 
-R package: BALCONY (Better ALignment CONsensus analYsis)
 
