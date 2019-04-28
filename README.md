@@ -16,7 +16,8 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
-[davidgohel/ggiraph](https://github.com/davidgohel/ggiraph) | <a href="https://dqn.website/post/interactive-mekko-charts-in-r/" target="_blank"><img src="https://github.com/cgpu/awesome-ggplot/blob/master/images/ggiraph.png?raw=true" alt="drawing" width="200"/></a> | <img src="https://davidgohel.github.io/budapestbi2017/ggiraph/libs/media/ggiraphlogo.svg" alt="drawing" width="100"/></a>| 
+[davidgohel/ggiraph](https://github.com/davidgohel/ggiraph) | <a href="https://dqn.website/post/interactive-mekko-charts-in-r/" target="_blank"><img src="https://github.com/cgpu/awesome-ggplot/blob/master/images/ggiraph.png?raw=true" alt="drawing" width="200"/></a> | <img src="https://davidgohel.github.io/budapestbi2017/ggiraph/libs/media/ggiraphlogo.svg" alt="drawing" width="100"/></a>|
+[](https://github.com/davidgohel/ggiraph) | <a href="https://dqn.website/post/interactive-mekko-charts-in-r/" target="_blank"><img src="https://guangchuangyu.github.io/blog_images/2015/Screenshot%202015-12-16%2010.55.49.png" alt="drawing" width="200"/></a> | <img src="https://davidgohel.github.io/budapestbi2017/ggiraph/libs/media/ggiraphlogo.svg" alt="drawing" width="100"/></a>| 
 
 # Cool cool
 
@@ -50,3 +51,16 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
 [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) | <a href="https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html" target="_blank"><img src="https://i1.wp.com/raw.githubusercontent.com/GuangchuangYu/emojifont/master/vignettes/figures/fontawesome.png?w=456&ssl=1" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+
+
+
+# Omics
+tengfei/ggbio
+https://github.com/GuangchuangYu/seqcombo
+
+
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[GuangchuangYu/seqcombo](https://github.com/GuangchuangYu/seqcombo) | <a href="https://guangchuangyu.github.io/2017/12/visualizing-reassortment-history-using-seqcombo/" target="_blank"><img src="https://raw.githubusercontent.com/GuangchuangYu/seqcombo/master/inst/figures/GVariation.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+
