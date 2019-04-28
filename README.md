@@ -36,4 +36,11 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 [GuangchuangYu/ggimage](https://github.com/GuangchuangYu/ggimage)| <a href="https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/" target="_blank"><img src="https://guangchuangyu.github.io/post/R/ggimage/ggbackground_files/figure-html/unnamed-chunk-4-1.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
+# Multiplotting
+
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[hafen/geofacet](https://github.com/hafen/geofacet) | <a href="https://hafen.github.io/geofacet//" target="_blank"><img src="https://user-images.githubusercontent.com/1275592/27321712-1fe9c818-5550-11e7-80e2-ce2afeb53734.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+
 
