@@ -68,6 +68,7 @@ tengfei/ggbio
 [michalstolarczyk/BALCONY](https://github.com/michalstolarczyk/BALCONY) | <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2294-z" target="_blank"><img src="https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fs12859-018-2294-z/MediaObjects/12859_2018_2294_Fig3_HTML.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
-
-
-
+ToDo:
+- [ ] https://mode.com/blog/r-ggplot-extension-packages
+- [ ] https://github.com/jrnold/ggthemes
+- [ ] https://github.com/kassambara/ggcorrplot#ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
