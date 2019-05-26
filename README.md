@@ -73,3 +73,4 @@ ToDo:
 - [ ] https://mode.com/blog/r-ggplot-extension-packages
 - [ ] https://github.com/jrnold/ggthemes
 - [ ] https://github.com/kassambara/ggcorrplot#ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
+- [ ] `{DT}` with images as variable 
