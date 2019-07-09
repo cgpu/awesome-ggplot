@@ -67,7 +67,7 @@ tengfei/ggbio
 [UBod/msa](https://github.com/UBod/msa) | <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://bioconductor.org/packages/devel/bioc/vignettes/msa/inst/doc/msa.pdf" target="_blank"><img src="https://github.com/cgpu/awesome-ggplot/blob/master/images/drawProteins.png?raw=true" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 [michalstolarczyk/BALCONY](https://github.com/michalstolarczyk/BALCONY) | <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2294-z" target="_blank"><img src="https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fs12859-018-2294-z/MediaObjects/12859_2018_2294_Fig3_HTML.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 [anfederico/bands](https://github.com/anfederico/bands) | <a href="https://anfederico.github.io/bands/" target="_blank"><img src="https://github.com/cgpu/bands/raw/master/man/figures/README-unnamed-chunk-4-1.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
-[rcastelo/GenomicScores](https://github.com/rcastelo/GenomicScores) | <a href="https://anfederico.github.io/bands/" target="_blank"><img src="" width="200"/></a> |  <!-- <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/GenomicScores/GenomicScores.png" width="100"/> --> | 
+[rcastelo/GenomicScores](https://github.com/rcastelo/GenomicScores) | <a href="https://bioconductor.org/packages/release/bioc/vignettes/GenomicScores/inst/doc/GenomicScores.html#11_annotating_variants_with_genomic_scores" target="_blank"><img src="" width="200"/></a> |  <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/GenomicScores/GenomicScores.png" width="100"/>  | 
 
 
 ToDo:
