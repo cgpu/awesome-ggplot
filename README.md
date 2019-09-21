@@ -2,6 +2,14 @@
 A curated list of ggplot related  R packages inspired by [Awesome SysadminP](https://github.com/kahun/awesome-sysadmin)
 
 
+- [ ] [karyoploter](https://bernatgel.github.io/karyoploter_tutorial/)
+- [ ] [GViz]()
+- [ ] [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks)
+- [ ] [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html)
+- [ ] [qqman](https://www.biorxiv.org/content/10.1101/005165v1)
+- [ ] [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html)
+- [ ] []()
+
 
 # Interactive
 
