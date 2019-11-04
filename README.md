@@ -77,7 +77,7 @@ tengfei/ggbio
 [anfederico/bands](https://github.com/anfederico/bands) | <a href="https://anfederico.github.io/bands/" target="_blank"><img src="https://github.com/cgpu/bands/raw/master/man/figures/README-unnamed-chunk-4-1.png" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 [rcastelo/GenomicScores](https://github.com/rcastelo/GenomicScores) | <a href="https://bioconductor.org/packages/release/bioc/vignettes/GenomicScores/inst/doc/GenomicScores.html#11_annotating_variants_with_genomic_scores" target="_blank"><img src="" width="200"/></a> |  <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/GenomicScores/GenomicScores.png" width="100"/>  | 
 [griffithlab/GenVisR](https://github.com/griffithlab/GenVisR) | <a href="https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html" target="_blank"><img src="https://i.stack.imgur.com/iQzGi.png" width="200"/></a> |  <img src="" width="100"/>  | 
-[/]() | <a href="" target="_blank"><img src="" width="200"/></a> |  <img src="" width="100"/>  | 
+[/vcfR]() | <a href="https://grunwaldlab.github.io/Population_Genetics_in_R/analysis_of_genome.html" target="_blank"><img src="https://grunwaldlab.github.io/Population_Genetics_in_R/analysis_of_genome_files/figure-html/chromoqc-1.png" width="200"/></a> |  <img src="" width="100"/>  | 
 [/]() | <a href="" target="_blank"><img src="" width="200"/></a> |  <img src="" width="100"/>  | 
 [/]() | <a href="" target="_blank"><img src="" width="200"/></a> |  <img src="" width="100"/>  | 
 [/]() | <a href="" target="_blank"><img src="" width="200"/></a> |  <img src="" width="100"/>  | 
