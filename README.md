@@ -10,6 +10,22 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 - [ ] [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html)
 - [ ] []()
 
+# JS libraries
+
+source: [Interactive Visualization with JavaScript and R](https://bioconnector.github.io/workshops/r-interactive-viz.html#javascript)
+
+
+- [ ] [d3.js in `{rstudio/r2d3}`](https://github.com/rstudio/r2d3)
+- [ ] c3.js
+- [ ] vis.js
+- [ ] plotly.js
+- [ ] sigma.js
+- [ ] dygraphs.js
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[d3.js in `{rstudio/r2d3}`](https://github.com/rstudio/r2d3)] | <a href="https://dqn.website/post/interactive-mekko-charts-in-r/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/b5b49f73af8cd7e1f1c85482909e3594fd86d952/7d175/images/r2d3-r-interface-to-d3-visualizations/bubbles_thumbnail.png" alt="drawing" width="100"/></a> | <img src="https://github.com/rstudio/r2d3/raw/master/tools/README/r2d3-hex.png" alt="drawing" width="80"/></a>| 
+
 
 # Interactive
 
