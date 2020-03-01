@@ -54,12 +54,12 @@ A curated list of ggplot related  R packages inspired by [Awesome SysadminP](htt
 [hafen/geofacet](https://github.com/hafen/geofacet) | <a href="https://hafen.github.io/geofacet/" target="_blank"><img src="https://user-images.githubusercontent.com/1275592/27321712-1fe9c818-5550-11e7-80e2-ce2afeb53734.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
-# Emojiverse
-
+# Image/Emojiverse
 
  repo                |    example plot   |  hexSticker|
 |:-------------------:|:------------------:| :------------------: |
 [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) | <a href="https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html" target="_blank"><img src="https://i1.wp.com/raw.githubusercontent.com/GuangchuangYu/emojifont/master/vignettes/figures/fontawesome.png?w=456&ssl=1" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
+[edzer/sp](https://github.com/edzer/sp) | <a href="https://stackoverflow.com/questions/28206611/adding-custom-image-to-geom-polygon-fill-in-ggplot" target="_blank"><img src="https://i.stack.imgur.com/rXJI9.png" alt="drawing" width="200"/></a> |  <!-- <img src="" width="100"/> --> | 
 
 
 
