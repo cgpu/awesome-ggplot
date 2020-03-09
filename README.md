@@ -115,3 +115,10 @@ ToDo:
 - [R-ladies](https://github.com/rladies/starter-kit/blob/master/rladiesggplot2theme.R)
 - [INWTlab/ireports: Brand identity rmd](https://github.com/INWTlab/ireports)
 - [INWTlab/ggCorpIdent: Brand identity ggplot2 them](https://github.com/INWTlab/ggCorpIdent)
+
+## Awesome python :scream_cat: dataviz not implemented(?) yet in R
+
+ repo                |    example plot   |  hexSticker|
+|:-------------------:|:------------------:| :------------------: |
+[parrt/dtreeviz](https://github.com/parrt/dtreeviz) | <a href="https://explained.ai/decision-tree-viz/index.html" target="_blank"><img src="https://github.com/parrt/dtreeviz/raw/master/testing/samples/breast_cancer-TD-4-simple.svg?sanitize=true" width="300"/></a> |  <img src="" width="100"/>  | 
+
