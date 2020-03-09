@@ -108,3 +108,10 @@ ToDo:
 - [ ] https://github.com/jrnold/ggthemes
 - [ ] https://github.com/kassambara/ggcorrplot#ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
 - [ ] `{DT}` with images as variable 
+
+
+## Awesome custom themes
+
+- [R-ladies](https://github.com/rladies/starter-kit/blob/master/rladiesggplot2theme.R)
+- [INWTlab/ireports: Brand identity rmd](https://github.com/INWTlab/ireports)
+- [INWTlab/ggCorpIdent: Brand identity ggplot2 them](https://github.com/INWTlab/ggCorpIdent)
