@@ -122,3 +122,11 @@ ToDo:
 |:-------------------:|:------------------:| :------------------: |
 [parrt/dtreeviz](https://github.com/parrt/dtreeviz) | <a href="https://explained.ai/decision-tree-viz/index.html" target="_blank"><img src="https://github.com/parrt/dtreeviz/raw/master/testing/samples/breast_cancer-TD-4-simple.svg?sanitize=true" width="300"/></a> |  <img src="" width="100"/>  | 
 
+
+
+## Awesome hex stickers
+
+| R package| hexsticker|
+|:-------------------:|:------------------:|
+
+|[ropensci/outsider](https://docs.ropensci.org/outsider/)| <a href="https://docs.ropensci.org/outsider/" target="_blank"><img src="https://docs.ropensci.org/outsider/logo.png" width="80"/></a> |
