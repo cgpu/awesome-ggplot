@@ -128,5 +128,4 @@ ToDo:
 
 | R package| hexsticker|
 |:-------------------:|:------------------:|
-
 |[ropensci/outsider](https://docs.ropensci.org/outsider/)| <a href="https://docs.ropensci.org/outsider/" target="_blank"><img src="https://docs.ropensci.org/outsider/logo.png" width="80"/></a> |
